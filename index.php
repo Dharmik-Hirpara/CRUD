@@ -21,8 +21,10 @@ require_once('header.php');
         <tbody>
           <tr>
             <th scope="row">
-              <button type="button" class="btn btn-success btn-sm" title="Edit"><i class="fa fa-edit"></i></button>
-              <button type="button" class="btn btn-danger btn-sm" title="Delete"><i class="fa fa-trash"></i></button>
+              <button type="button" class="btn btn-success btn-sm"
+               title="Edit"><i class="fa fa-edit"></i></button>
+              <button type="button" class="btn btn-danger btn-sm"
+               title="Delete"><i class="fa fa-trash"></i></button>
             </th>
             <td>Mark</td>
             <td>Otto</td>
